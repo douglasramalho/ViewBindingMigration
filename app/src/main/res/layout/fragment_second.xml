@@ -15,4 +15,6 @@
         android:textSize="32sp"
         tools:text="Second Fragment" />
 
+    <include layout="@layout/include_button" />
+
 </LinearLayout>
