@@ -9,6 +9,6 @@ class SecondFragment : Fragment(R.layout.fragment_second) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        text_fragment.text = getString(R.string.second_fragment)
+        text_view_fragment.text = getString(R.string.second_fragment)
     }
 }

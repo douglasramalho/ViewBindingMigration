@@ -19,5 +19,5 @@
         android:id="@+id/secondFragment"
         android:name="br.com.douglasmotta.viewbindingmigration.SecondFragment"
         android:label="Second Fragment"
-        tools:layout="@layout/fragment_first" />
+        tools:layout="@layout/fragment_second" />
 </navigation>
